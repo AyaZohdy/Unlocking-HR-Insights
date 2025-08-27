@@ -197,12 +197,12 @@ The goals of the question
 
 •	Outcomes
 --
-i.	There is Fast hiring that reduce talents gaps. But there is no balance between the employees ethnics. Analyzing the representation of different groups in the workforce helps ensure that diversity goals are met, promoting a more inclusive environment.
-ii.	In general, there is no gap difference between the two genders in continuity. But the average is two years of service, and this considered short period.
-iii.	The mean separation reason is voluntary, and this may be due to
-a.	Low salaries.
-b.	Uncomfortable work environment.
-c.	The employees didn't get the good opportunities and equality.
+- There is Fast hiring that reduce talents gaps. But there is no balance between the employees ethnics. Analyzing the representation of different groups in the workforce helps ensure that diversity goals are met, promoting a more inclusive environment.
+- In general, there is no gap difference between the two genders in continuity. But the average is two years of service, and this considered short period.
+- The mean separation reason is voluntary, and this may be due to
+1. Low salaries.
+2. Uncomfortable work environment.
+3. The employees didn't get the good opportunities and equality.
 
 •	Limitations
 --
@@ -216,8 +216,8 @@ Future data collection should include more details about the reasons for separat
 
 •	Dependencies:
 --
-•	Data Manipulation: SQL
-•	Data Visualization: Tableau
+- Data Manipulation: SQL
+- Data Visualization: Tableau
 
 •	Sources
 --
