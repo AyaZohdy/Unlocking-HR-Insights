@@ -88,7 +88,7 @@ select * from employeetype;
 
 /* 
 
--- Columns we used
+-- Columns used
 [emplid, gender, ethnicgroup, termdate, hiredate, termreason]
 
 */
@@ -137,6 +137,7 @@ For many organizations, this period involves:
 As a result, job listings may decrease during November and December, and the general pace of hiring could seem slower.
 
 -- https://www.linkedin.com/pulse/hiring-almost-frozen-during-month-nov-dec-myth-fact-sudheer-s-ghtwe/
+
 -- https://perspectiveblue.com/why-is-it-harder-to-hire-in-december/
 
 4. The most hiring ethnic group is 1 (A) - Hispanic or Latino with huge gap difference with other groups.
